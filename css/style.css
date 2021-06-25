@@ -1,0 +1,48 @@
+html * {
+    margin: 0;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    margin: 1%;
+    background: linear-gradient(to bottom, lightpink 0%, lightblue 100%);
+}
+
+header {
+    border: lightgoldenrodyellow double 10px;
+    margin: 0 250px;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h2 {
+    margin: 10px;
+    font-size: small;
+}
+
+h3 {
+    margin: 10px 0 0;
+}
+
+ul {
+    margin: 5px 0 10px;
+    padding: 0;
+}
+
+#videozao {
+    margin: 10px;
+}
+
+.videos {
+    margin: 10px;
+}
+
+footer {
+    margin: 0 550px;
+    border: rgb(198,255,198) solid 4px;
+    border-radius: 0 20px 0 20px;
+    padding: 10px;
+}
